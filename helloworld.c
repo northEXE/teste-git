@@ -2,7 +2,7 @@
 
 int main(){
   int a = 5, b = 7;
-  printf("%s", "Olá Mundo");
   printf("%d", a+b);
+  printf("%s", "Vão se foder!");
   return 0;
 }
